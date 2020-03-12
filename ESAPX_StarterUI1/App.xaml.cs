@@ -16,7 +16,7 @@ namespace ESAPX_StarterUI1
 {
     /// <summary>
     /// Interaction logic for App.xaml
-    /// </summary>
+    /// </summary> this is a test
     public partial class App
     {
         private IEventAggregator _ea;
